@@ -1,0 +1,18 @@
+body {
+    background: url("https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=2000&q=80");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
+
+img {
+    border-radius: 3%;
+    width: 1000px;
+    height: 500px;
+}
+
+#player {
+    margin: auto;
+}
